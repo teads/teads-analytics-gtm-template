@@ -13,6 +13,10 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Teads Analytics",
+  "categories": [
+    "ADVERTISING",
+    "REMARKETING"
+  ],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
