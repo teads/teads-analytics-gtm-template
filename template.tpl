@@ -15,7 +15,8 @@ ___INFO___
   "displayName": "Teads Analytics",
   "categories": [
     "ADVERTISING",
-    "REMARKETING"
+    "ANALYTICS",
+    "PERSONALIZATION"
   ],
   "brand": {
     "id": "brand_dummy",
