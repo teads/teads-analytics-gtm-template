@@ -1,4 +1,4 @@
-# teads-analytics-gtm-template
+# teads-analytics-tag-gtm-template
 
 Teads Analytics template for Google Tag Manager to easily integrate the Teads Analytics Tag that allows to easily share basic viewer information with Teads.
 
