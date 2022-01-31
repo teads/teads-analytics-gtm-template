@@ -2,5 +2,8 @@ homepage: "https://www.teads.com"
 documentation: "https://support.teads.tv/support/solutions/articles/36000313709-teads-analytics-tag-for-publishers"
 versions:
   # Latest version
+  - sha: 691fb79c14fe4f5a9a25a1bcd3d161d5f0c0b335
+    changeNotes: Rename template.
+  # Older versions
   - sha: f317d40640ab6e433f6194bdbaa1d27865e356c5
     changeNotes: Initial release.
