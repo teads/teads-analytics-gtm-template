@@ -36,7 +36,7 @@ ___TEMPLATE_PARAMETERS___
   {
     "type": "TEXT",
     "name": "teadsAnalyticsTagId",
-    "displayName": "Teads Analytics Tag ID",
+    "displayName": "Teads Cookieless Monetization Tag ID",
     "simpleValueType": true,
     "notSetText": "You need to specify your Teads ID",
     "valueHint": "PUB_xxx",
